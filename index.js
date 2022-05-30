@@ -39,3 +39,5 @@ console.log(firstName.length);
 // String methods
 console.log(fullName.toUpperCase());
 console.log(lastName.toLowerCase());
+let result = fullName.toUpperCase();
+console.log(result, fullName);
