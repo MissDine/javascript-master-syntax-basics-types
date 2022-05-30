@@ -73,3 +73,7 @@ console.log(rel);
 
 
 // NUMBERS
+let radius = 28;
+const pi = 3.142
+let circumference = 2*pi*radius
+console.log(circumference);
