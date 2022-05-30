@@ -1,4 +1,4 @@
-//Variables-Storage for our values eg
+//Variables-Storage container for our values eg
 let age = 25;
 let year = 2022
 
@@ -14,4 +14,4 @@ console.log(age);
 // 4.Null-Explitly set a  variable has no value eg age = null
 // 5.Undefined-a value that is automatically given to values that have not yet been defined.
 // 6.Object-(EVERYTHING IN JS IS AN OBJECT)Complex data structures-Arrays,dates literals etc eg- {name:enid,age:25}etc
-// 7.Symbol-
+// 7.Symbol-Used with objects
