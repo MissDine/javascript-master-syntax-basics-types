@@ -32,5 +32,8 @@ console.log(fullName);
 console.log(fullName[0]);
 console.log(firstName[3]);
 // String length
+console.log(fullName.length);
+console.log(lastName.length);
+console.log(firstName.length);
 
 // String methods
