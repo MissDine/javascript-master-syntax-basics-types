@@ -52,7 +52,7 @@ console.log(indexx);
 // Common string methods
 // 1.INDEXOF
 // We can say that methods are more of functions and the only difference is that methods are  attached to objects using the dot notation eg name.toUpperCase()
-let emaill = "enid@gmail.com"
+let emaill = "enide@gmail.com"
 
 let resul = emaill.lastIndexOf("n")
 console.log(resul);
@@ -65,3 +65,8 @@ console.log(results);
 let resultss = emaill.substring(2,10)
 // in ths case the 2 is in terms of index and 10 is in terms of literal counting
 console.log(resultss);
+
+// 4.REPLACE
+// first argument is the initial value and the second one is what is yo replace the first
+let rel = emaill.replace("enid","nyatichi")
+console.log(rel);
