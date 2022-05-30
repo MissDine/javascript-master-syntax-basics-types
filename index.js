@@ -29,7 +29,8 @@ let fullName = firstName + lastName
 console.log(fullName);
 
 // Getting characters
-
+console.log(fullName[0]);
+console.log(firstName[3]);
 // String length
 
 // String methods
