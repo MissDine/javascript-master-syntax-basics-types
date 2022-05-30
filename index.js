@@ -50,8 +50,13 @@ let indexx = fullName.indexOf("N")
 console.log(indexx);
 
 // Common string methods
+// 1.INDEXOF
 // We can say that methods are more of functions and the only difference is that methods are  attached to objects using the dot notation eg name.toUpperCase()
 let emaill = "enid@gmail.com"
 
 let resul = emaill.lastIndexOf("n")
 console.log(resul);
+
+// 2.SLICE
+let results = email.slice(2,8)
+console.log(results);
