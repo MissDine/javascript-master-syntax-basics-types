@@ -18,7 +18,10 @@ console.log(age);
 
 
 //STRINGS
+console.log("Israel");
 
+let email = "enidnyatichi1212@gmail.com"
+console.log(email);
 // String concatenation
 
 // Getting characters
