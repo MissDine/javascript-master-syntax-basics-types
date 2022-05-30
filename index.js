@@ -51,4 +51,7 @@ console.log(indexx);
 
 // Common string methods
 // We can say that methods are more of functions and the only difference is that methods are  attached to objects using the dot notation eg name.toUpperCase()
+let emaill = "enid@gmail.com"
 
+let resul = emaill.lastIndexOf("n")
+console.log(resul);
