@@ -12,6 +12,6 @@ console.log(age);
 // 2.String-"name" "enid","hello" etc
 // 3.Boolean-true or false
 // 4.Null-Explitly set a  variable has no value eg age = null
-// 5.Undefined-
-// 6.Object- {name:enid,age:25}etc
+// 5.Undefined-a value that is automatically given to values that have not yet been defined.
+// 6.Object-Complex data structures-Arrays,dates literals etc eg- {name:enid,age:25}etc
 // 7.Symbol-
