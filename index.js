@@ -60,3 +60,8 @@ console.log(resul);
 // 2.SLICE
 let results = email.slice(2,8)
 console.log(results);
+
+// 3.SUBSTRING-2nd argument is the last character we want to go to witout indexing eg 4 to mean d,2 to mean n
+let resultss = emaill.substring(2,10)
+// in ths case the 2 is in terms of index and 10 is in terms of literal counting
+console.log(resultss);
