@@ -48,3 +48,7 @@ console.log(index);
 
 let indexx = fullName.indexOf("N")
 console.log(indexx);
+
+// Common string methods
+// We can say that methods are more of functions and the only difference is that methods are  attached to objects using the dot notation eg name.toUpperCase()
+
