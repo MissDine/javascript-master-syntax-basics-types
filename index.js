@@ -13,5 +13,5 @@ console.log(age);
 // 3.Boolean-true or false
 // 4.Null-Explitly set a  variable has no value eg age = null
 // 5.Undefined-a value that is automatically given to values that have not yet been defined.
-// 6.Object-Complex data structures-Arrays,dates literals etc eg- {name:enid,age:25}etc
+// 6.Object-(EVERYTHING IN JS IS AN OBJECT)Complex data structures-Arrays,dates literals etc eg- {name:enid,age:25}etc
 // 7.Symbol-
