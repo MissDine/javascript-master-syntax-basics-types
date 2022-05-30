@@ -70,3 +70,6 @@ console.log(resultss);
 // first argument is the initial value and the second one is what is yo replace the first
 let rel = emaill.replace("enid","nyatichi")
 console.log(rel);
+
+
+// NUMBERS
