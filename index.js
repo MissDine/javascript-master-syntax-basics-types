@@ -15,3 +15,14 @@ console.log(age);
 // 5.Undefined-a value that is automatically given to values that have not yet been defined.
 // 6.Object-(EVERYTHING IN JS IS AN OBJECT)Complex data structures-Arrays,dates literals etc eg- {name:enid,age:25}etc
 // 7.Symbol-Used with objects
+
+
+//STRINGS
+
+// String concatenation
+
+// Getting characters
+
+// String length
+
+// String methods
