@@ -22,7 +22,11 @@ console.log("Israel");
 
 let email = "enidnyatichi1212@gmail.com"
 console.log(email);
-// String concatenation
+// String concatenation-joining two strings together
+let firstName = "Enid"
+let lastName =" Nyatichi"
+let fullName = firstName + lastName
+console.log(fullName);
 
 // Getting characters
 
