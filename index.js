@@ -250,7 +250,7 @@ console.log(typeof score);
 
  let num = "89"
  console.log(typeof num, num);
-// Positive numbers are considered to  be true while negative and 0 are considered false
+// Positive numbers,strings are considered to  be true while negative and 0 are considered false
  let Num = Boolean(56)
  console.log(Num,typeof Num);
 
