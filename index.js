@@ -171,17 +171,26 @@ console.log(ninjas);
  let random = ["Dine", "Tichi",55,90]
  console.log(random);
 //  ARRAY PROPERTIES
+// .length
 console.log(random.length)
 
 // ARRAY METHODS
+// .join()-doesn't alter the original value
 let naijas = ["Enid", "Israel","Norbert","Junior", "Mbogo"]
 console.log(naijas.join(","));
 console.log(naijas.join("-"));
+console.log(naijas);
+//.indexOf
 let nai = naijas.indexOf("Mbogo")
 console.log(nai);
-
+// .concat-doen't alter the original value
 let nie = ninjas.concat(["Christa","Don","Ably"])
 console.log(nie);
+console.log(ninjas);
+// .push-it alters the original value by adding the pushed value
+let nee = ninjas.push("Junior")
+console.log(nee);
+console.log(ninjas);
 
 
 
