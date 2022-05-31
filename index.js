@@ -217,6 +217,11 @@ console.log(mm);
 console.log(my);
 
 // comparison operators
+let Age = 25
+console.log(Age == 25)
+console.log(Age == 55)
+console.log(Age != 25)
+console.log(Age != 95)
 
 
 
