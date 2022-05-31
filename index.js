@@ -157,6 +157,11 @@ let html = `
 <span>This book has ${reads} reads </span>`
 console.log(html);
 
+// ARRAYS- Used to store a collection of stuff , lists etc
+let ninjas = ["Enid", "Israel","Norbert","Junior", "Mbogo"]
+console.log(ninjas);
+
+
 
 
 
