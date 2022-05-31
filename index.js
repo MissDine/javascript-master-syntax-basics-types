@@ -221,7 +221,12 @@ let Age = 25
 console.log(Age == 25)
 console.log(Age == 55)
 console.log(Age != 25)
-console.log(Age != 95)
+console.log(Age == 95)
+console.log(Age < 25)
+// When a letter comes later in terms of alphabets its considered greater
+let Name = "Enid"
+console.log("Nyatichi">Name);
+
 
 
 
