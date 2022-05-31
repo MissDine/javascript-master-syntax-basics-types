@@ -170,6 +170,15 @@ console.log(ninjas);
 
  let random = ["Dine", "Tichi",55,90]
  console.log(random);
+//  ARRAY PROPERTIES
+console.log(random.length)
+
+// ARRAY METHODS
+let naijas = ["Enid", "Israel","Norbert","Junior", "Mbogo"]
+console.log(naijas.join(","));
+console.log(naijas.join("-"));
+
+
 
 
 
