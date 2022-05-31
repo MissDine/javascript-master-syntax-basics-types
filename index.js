@@ -197,6 +197,14 @@ console.log(ninjas);
 // to find the vvalue that was popped we console log nii
 console.log(nii); 
 
+//UNDEFINED
+let agee;
+console.log(agee, agee+3, `the age is ${agee}`);
+// A value is considered to be undefined when it has no value assigned to it.The browser then gives it a value undefined.
+// NULL-value intentionally unassigned
+let ag = null
+console.log(ag, ag+3, `the age is ${ag}`);
+
 
 
 
