@@ -151,6 +151,12 @@ sults = `The book called ${title} by ${author} has ${reads} reads. `
 console.log(sults);
 
 // Creating html templates
+let html = `
+<h2>${title}</h2>
+<p>${author}</p>
+<span>This book has ${reads} reads </span>`
+console.log(html);
+
 
 
 
