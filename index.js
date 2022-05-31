@@ -165,6 +165,8 @@ console.log(ninjas[1]);
 // Replacing a value 
 ninjas[0] = "Nyatichi"
 console.log(ninjas);
+ let ages = [20,30,35,56,78]
+ console.log(ages[3]);
 
 
 
