@@ -138,16 +138,17 @@ let blogs = " The blog has " + views + " views"
 console.log(blogs);
 
 // TEMPLATE STRING
-const title = "The River and The Source"
-const author = "Margret Ogolla"
+const title = " The River and The Source"
+const author = " Margret Ogolla"
 const reads = 10000
 
 // Concatenation way 
-
-
-// template string /literal way
 sult = "The book called" + title + " by" + author + " has" + reads + " reads"
 console.log(sult);
+
+// template string /literal way
+sults = `The book called ${title} by ${author} has ${reads} reads. `
+console.log(sults);
 
 // Creating html templates
 
