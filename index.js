@@ -81,3 +81,10 @@ console.log(circumference);
 // Math operators
 // +, -,*,/,**,%
 console.log(10/2)
+
+let res = radius % 3
+console.log(res);
+
+let radiuss = 7
+area = pi*radiuss**2
+console.log(area);
