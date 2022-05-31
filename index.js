@@ -93,26 +93,37 @@ console.log(area);
 // BIDMAS
 let math = 5*(10-3)**2
 console.log(math);
-
+// ADDITION
 let likes = 10
 // likes = likes + 1
 // The fuction below automatically adds 1 to the initial value eg 10+1
 likes++
 
 console.log(likes);
+// SUBTRACTION
 // The fuction below automatically subtracts 1 to the initial value 10 - 1
 likes --
 console.log(likes);
+// ADDITION
 // The fuction below automatically adds  a value to the initial value eg 30+20
 let loves = 20
 loves += 30
 console.log(loves);
+// SUBTRACTION
 // The fuction below automatically subtracts a value to the initial value eg 10- 2
 let hate = 10
 hate -=2
 console.log(hate);
 
+// MULTIPLICATION
 // // The fuction below automatically multiplies a value to the initial value eg 40*50
 let mon = 40
 mon *= 50
 console.log(mon);
+
+//DIVISION
+
+let hat = 50
+hat /= 5
+console.log(hat);
+
