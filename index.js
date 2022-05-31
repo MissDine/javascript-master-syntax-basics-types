@@ -134,7 +134,7 @@ console.log(lol);
 
 // CONCATINATING NUMBERS 
 let views = 10
-let blogs = "The blog has " + views + " views"
+let blogs = " The blog has " + views + " views"
 console.log(blogs);
 
 // TEMPLATE STRING
@@ -142,10 +142,12 @@ const title = "The River and The Source"
 const author = "Margret Ogolla"
 const reads = 10000
 
-// Concatenation
+// Concatenation way 
 
 
-// template string way
+// template string /literal way
+sult = "The book called" + title + " by" + author + " has" + reads + " reads"
+console.log(sult);
 
 // Creating html templates
 
