@@ -160,6 +160,9 @@ console.log(html);
 // ARRAYS- Used to store a collection of stuff , lists etc
 let ninjas = ["Enid", "Israel","Norbert","Junior", "Mbogo"]
 console.log(ninjas);
+// Javascript is a zero based language hence indexing starts from zero
+console.log(ninjas[1]);
+
 
 
 
