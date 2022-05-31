@@ -137,6 +137,18 @@ let views = 10
 let blogs = "The blog has " + views + " views"
 console.log(blogs);
 
+// TEMPLATE STRING
+const title = "The River and The Source"
+const author = "Margret Ogolla"
+const reads = 10000
+
+// Concatenation
+
+
+// template string way
+
+// Creating html templates
+
 
 
 
