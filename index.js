@@ -162,6 +162,9 @@ let ninjas = ["Enid", "Israel","Norbert","Junior", "Mbogo"]
 console.log(ninjas);
 // Javascript is a zero based language hence indexing starts from zero
 console.log(ninjas[1]);
+// Replacing a value 
+ninjas[0] = "Nyatichi"
+console.log(ninjas);
 
 
 
