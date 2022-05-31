@@ -209,6 +209,10 @@ console.log(ag, ag+3, `the age is ${ag}`);
 console.log(true,false);
 
 // Methods can return booleans
+// .include -to check if a certain character is in the variable
+let mail = "enid@gmail.com"
+let mm = mail.includes("@")
+console.log(mm);
 
 // comparison operators
 
