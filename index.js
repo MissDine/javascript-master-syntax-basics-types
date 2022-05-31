@@ -205,6 +205,9 @@ console.log(agee, agee+3, `the age is ${agee}`);
 let ag = null
 console.log(ag, ag+3, `the age is ${ag}`);
 
+// BOOLEANS-true,false
+console.log(true,false);
+
 
 
 
