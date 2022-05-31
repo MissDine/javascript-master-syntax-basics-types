@@ -212,7 +212,9 @@ console.log(true,false);
 // .include -to check if a certain character is in the variable
 let mail = "enid@gmail.com"
 let mm = mail.includes("@")
+let my = mail.includes("Q")
 console.log(mm);
+console.log(my);
 
 // comparison operators
 
