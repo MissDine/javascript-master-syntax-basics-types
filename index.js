@@ -208,6 +208,10 @@ console.log(ag, ag+3, `the age is ${ag}`);
 // BOOLEANS-true,false
 console.log(true,false);
 
+// Methods can return booleans
+
+// comparison operators
+
 
 
 
