@@ -223,9 +223,26 @@ console.log(Age == 55)
 console.log(Age != 25)
 console.log(Age == 95)
 console.log(Age < 25)
-// When a letter comes later in terms of alphabets its considered greater
+// When a letter comes later in terms of alphabets or its an upperCase its considered greater
 let Name = "Enid"
 console.log("Nyatichi">Name);
+console.log("enid" < Name);
+
+// STRICT COMPARISON
+let Res = 45
+// == doesn't consider the data type
+console.log(45 == "45");
+console.log(45 != "45")
+// === its strict hence considers the data type; differnt types cannot be equaleg number cannot be equal to a string
+console.log(45 === "45")
+console.log(45 !== "45")
+
+// Type conversion
+let score = "100"
+console.log(score + 1);
+
+score =Number(100)
+console.log(score + 5);
 
 
 
