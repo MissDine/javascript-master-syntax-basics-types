@@ -101,3 +101,10 @@ likes++
 console.log(likes);
 likes --
 console.log(likes);
+let loves = 20
+loves += 30
+console.log(loves);
+
+let hate = 10
+hate -=2
+console.log(hate);
