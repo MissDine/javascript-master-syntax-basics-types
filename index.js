@@ -96,12 +96,15 @@ console.log(math);
 
 let likes = 10
 // likes = likes + 1
+// The fuction below automatically adds 1 to the initial value
 likes++
 
 console.log(likes);
+// The fuction below automatically subtracts 1 to the initial value
 likes --
 console.log(likes);
 let loves = 20
+
 loves += 30
 console.log(loves);
 
