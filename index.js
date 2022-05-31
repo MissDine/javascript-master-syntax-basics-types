@@ -127,3 +127,17 @@ let hat = 50
 hat /= 5
 console.log(hat);
 
+// NAN-Not a number 
+let lol = (5/"enid")
+console.log(lol);
+// The result  is NaN -not a number
+
+// CONCATINATING NUMBERS 
+let views = 10
+let blogs = "The blog has " + views + " views"
+console.log(blogs);
+
+
+
+
+
