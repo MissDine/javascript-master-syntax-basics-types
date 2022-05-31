@@ -94,3 +94,10 @@ console.log(area);
 let math = 5*(10-3)**2
 console.log(math);
 
+let likes = 10
+// likes = likes + 1
+likes++
+
+console.log(likes);
+likes --
+console.log(likes);
