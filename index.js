@@ -191,6 +191,11 @@ console.log(ninjas);
 let nee = ninjas.push("Junior")
 console.log(nee);
 console.log(ninjas);
+// .pop -alters the orinal value by removing the end value 
+let nii = ninjas.pop()
+console.log(ninjas);
+// to find the vvalue that was popped we console log nii
+console.log(nii); 
 
 
 
