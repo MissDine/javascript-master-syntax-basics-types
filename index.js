@@ -168,6 +168,8 @@ console.log(ninjas);
  let ages = [20,30,35,56,78]
  console.log(ages[3]);
 
+ let random = ["Dine", "Tichi",55,90]
+ console.log(random);
 
 
 
