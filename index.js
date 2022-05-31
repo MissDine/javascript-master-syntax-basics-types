@@ -177,6 +177,11 @@ console.log(random.length)
 let naijas = ["Enid", "Israel","Norbert","Junior", "Mbogo"]
 console.log(naijas.join(","));
 console.log(naijas.join("-"));
+let nai = naijas.indexOf("Mbogo")
+console.log(nai);
+
+let nie = ninjas.concat(["Christa","Don","Ably"])
+console.log(nie);
 
 
 
