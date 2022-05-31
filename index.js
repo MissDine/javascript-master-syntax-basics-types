@@ -88,3 +88,9 @@ console.log(res);
 let radiuss = 7
 area = pi*radiuss**2
 console.log(area);
+
+// ORDER OF OPERATION
+// BIDMAS
+let math = 5*(10-3)**2
+console.log(math);
+
