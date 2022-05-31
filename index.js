@@ -243,6 +243,15 @@ console.log(score + 1);
 
 score =Number(100)
 console.log(score + 5);
+console.log(typeof score);
+
+ let No = Number ("Hello")
+ console.log(No);
+
+ let num = "89"
+ console.log(typeof num, num);
+
+
 
 
 
